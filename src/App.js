@@ -1,11 +1,12 @@
 import './App.css';
+import Header from './components/Header'
 
 function App() {
   return (
     <div className="App">
-      <p>github test 1</p>
+      <Header />
     </div>
   );
 }
 
-export default App;
+export default App
