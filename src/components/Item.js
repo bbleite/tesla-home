@@ -39,9 +39,10 @@ const Item = ({
             )}
           </div>
 
-          {first && (<div className="item__expand">
-            <ExpandMoreIcon />
-          </div>
+          {first && (
+            <div className="item__expand">
+              <ExpandMoreIcon />
+            </div>
           )}
         </div>
       </div>

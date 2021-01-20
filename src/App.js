@@ -87,12 +87,10 @@ function App() {
           desc="Money-back guarantee"
           desLink=""
           backgroundImg={Accessories}
-          leftBtnTxt="ORDER NOW"
-          leftBtnLink=""
+          leftBtnTxt="SHOP NOW"
+          leftBtnLink="https://www.google.com"
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
-          twoButtons="true"
-          first
         />
       </div>
     </div>
